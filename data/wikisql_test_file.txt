@@ -1,0 +1,211 @@
+ select builder from table where br no 30782 
+ select count year from table where date opening september 21 
+ select 700 am from table where 100 pm local programs 
+ select count capacity from table where stadium somerset park 
+ select sum pick from table where position lb and cfl team winnipeg 
+ select avg singapore from table where london 0 
+ select leader at the summit from table where year 2005 
+ select coaster name from table where year opened 1978 and track wooden 
+ select opponent from table where week 3 
+ select 1998 from table where 1993 2r and 1990 1r 
+ select brand name from table where model list e4xxx 
+ select location from table where capacity 15000 and stadium tapiolan urheilupuisto 
+ select volumeissue from table where weeks on top 2 and artist george mccrae 
+ select min gold from table where total 7 
+ select country from table where to par –9 
+ select high rebounds from table where game 14 and team denver 
+ select genre from table where origin of programming india and network star plus 
+ select status from table where car name tropartic 
+ select stadium from table where date november 13 
+ select away team score from table where crowd 22000 and home team hawthorn 
+ select candidates from table where incumbent del latta 
+ select week from table where date december 28 1997 
+ select score from table where date october 17 2007 
+ select qb rating from table where comp 620 
+ select sum goal difference from table where goals against 33 and draws 13 
+ select score l score in legs s score in sets from table where year 2012 
+ select avg year from table where competition commonwealth youth games 
+ select 2009 first time from table where 2010 first time 88 
+ select result from table where goals deacon 35 bridge 22 
+ select decision from table where date april 30 
+ select cfl team from table where position lb 
+ select report from table where home team townsville crocodiles 
+ select nhl team from table where collegejuniorclub team oshawa generals omjhl 
+ select team from table where fin pos 7 
+ select min population millions from table where inhabitants per mep 414538 and influence 206 and meps 13 
+ select winner from table where runnerup jingqian yi 
+ select polling institute from table where social democratic 307 
+ select result from table where attendance 22057 and week 5 
+ select count sunk by warship or raider from table where german submarines lost 20 and sunk by aircraft 21616 
+ select no from table where directed by kelly makin and written by mark ellis stephanie morgenstern 
+ select min class year from table where teams buffalo 
+ select sum medium gallup march 2008 from table where medium gallup may 2008 10 
+ select points difference from table where points against 451 
+ select partnering from table where score 7–6 7 6–1 
+ select competition from table where score 21 
+ select tv season from table where season finale may 23 2004 
+ select season finale date from table where season premiere date 12 december 2010 
+ select location from table where mascot panthers 
+ select decision from table where visitor new jersey 
+ select 700 from table where 800 risk takers 
+ select subparish sogn from table where parish prestegjeld hafslo parish and church name hafslo kyrkje 
+ select result from table where date 10081988 
+ select romaji title from table where tv station fuji tv and average ratings 1241 
+ select score from table where date june 1 
+ select high assists from table where record 24 
+ select movie in kannada from table where music director gk venkatesh and director siddalingaiah 
+ select min cultural and educational panel from table where university of dublin 3 and industrial and commercial panel 0 and agricultural panel 4 
+ select score from table where date september 12 1993 
+ select pole position from table where winning rider rob guiver and fastest lap kyle ryde 
+ select school from table where enrollment 908 
+ select no 7 from table where no 4 madison and no 10 amelia 
+ select count pick from table where round 6 and overall 102 
+ select score from table where high points p pierce 31 
+ select count november from table where game 14 and opponent minnesota wild 
+ select set 1 from table where date 24 may and total 57–75 
+ select part 1 from table where part 4 gevroren 
+ select location from table where year 1998 
+ select date from table where week 9 
+ select mountain peak from table where mountain range spanish peaks 
+ select incumbent from table where district texas 22 
+ select le5 model from table where le5a 130 
+ select production latest figures from table where parent company ariel 
+ select player from table where pick 15 
+ select avg total from table where rank 11 and nation switzerland and silver 0 
+ select reference from table where romaji title heartbreak sniper 
+ select format from table where catalog vcrd 103 
+ select time from table where notes fa and rank 2 
+ select result from table where original title qala 
+ select garfield episode 2 from table where us acres episode banana nose 
+ select 2011 12 from table where 2010 11 not held and 2012 13 a 
+ select min league from table where total 284 and name sandro mazzola 
+ select 3rd place from table where runnerup runnerup 
+ select max founded from table where institution piedmont college 
+ select name from table where type primary and dcsf number 2045 
+ select count grid from table where timeretired 121239 and laps 25 
+ select location from table where year 1993 and killed 1009 
+ select away team from table where venue victoria park 
+ select 1989 from table where 1987 1r 
+ select count complement from table where unit 4th hanoverian brigade 
+ select amiga demo from table where pc demo tribes pulse melon dezign 
+ select min chinese from table where filipino 1474707 
+ select count tournament from table where score 204 12 
+ select venue from table where date august 15 2012 
+ select series from table where sunday alice levine jamie east 
+ select english from table where dutch maken 
+ select high assists from table where team denver 
+ select min interview from table where preliminaries 94 and evening gown 955 and country new york and swimsuit 918 
+ select location from table where court surface hard and country china 
+ select sum weight from table where player deshawn stevenson 
+ select date from table where away team score 1011 71 
+ select count fox int channels air date from table where series 5 
+ select tie no from table where away team sheffield wednesday 
+ select max capacity from table where rank 6 and location rio de janeiro and total passengers 5099643 
+ select per capita income from table where median family income 72288 
+ select obese children and adolescents from table where obesity rank 48 
+ select driver from table where laps 18 and grid 16 
+ select avg poles from table where races 4 
+ select class from table where event championship test and result 62516 
+ select term in office from table where party liberal and state sa and member ian mclachlan 
+ select premiere from table where peak 34 
+ select winnings from table where position 23rd 
+ select color analysts from table where studio analysts terry bowden and tv rating 172 
+ select count game from table where opponent montreal canadiens 
+ select attendance from table where week 10 and date november 20 1966 
+ select max played from table where scored 25 and position 1 and draws 5 
+ select loser from table where year 2001 and winner new york giants 
+ select name from table where barrel profile a2 
+ select min block from table where director graeme harper 
+ select blank ends from table where w 60 
+ select architecture from table where original vehicle ford escort wagon 
+ select time from table where rider jules croft 
+ select class from table where call sign w298ak 
+ select min mv fts from table where max height ft 23500 
+ select sum shirt no from table where height 188 
+ select opponent from table where date august 30 
+ select method from table where round 1 and record 10 
+ select venue from table where date 17022008 
+ select coach from table where win 352 
+ select min attendance from table where record 715 
+ select date from table where away team burnley 
+ select home team score from table where away team fitzroy 
+ select score from table where country spain 
+ select original south korean performer from table where original manchester performer adebayo bolaji 
+ select min average from table where city bergen norway 
+ select opponent from table where surface clay and score 6–3 2–6 10–8 
+ select transfer fee from table where transfer window summer and type transfer and country hun 
+ select zone from table where round semifinal and against israel and opponent anna smashnova 
+ select player from table where position center 
+ select partial thromboplastin time from table where prothrombin time prolonged and condition factor v deficiency 
+ select statecountry from table where loa metres 1579 
+ select max number of households from table where per capita income 25557 and population 22330 
+ select home team from table where away team score 1211 83 
+ select stations from table where city neighborhood tarzana 
+ select name from table where points 22 and drawn 2 
+ select finals from table where 1st round — 
+ select count bronze from table where nation chinese taipei and gold 0 
+ select venue from table where home team geelong 
+ select sum 1979 from table where reservation standing rock indian reservation and 1989 549 
+ select 2010 from table where 2006 3r 
+ select distribution from table where grsecurity optional and compile time buffer checks yes 
+ select date from table where no built 5 and wheels 442t 
+ select count moment of inertia in torsion j cm 4 from table where web thickness mm 47 
+ select max laps from table where timeretired 1 lap and driver alexander wurz and grid 14 
+ select representative from table where religion united methodist and prior background congressional aide 
+ select count goals scored from table where year verano 2001 
+ select position from table where player jordan fransoo 
+ select count denominations gold weight from table where country austria 
+ select team from table where player aj moye 
+ select week from table where result bottom 3 
+ select office from table where conservative ticket kieran odoherty 
+ select height from table where represent 6 
+ select website from table where suburbtown albury and school albury high school 
+ select date from table where visitor detroit 
+ select record from table where date november 26 1961 
+ select record from table where loss alexander 52 
+ select schoolclub team from table where player aaron williams 
+ select circuit from table where team volvo cars australia 
+ select avg fastest laps from table where poles 0 
+ select sum goals from table where club hallelujah fc and rank 7 
+ select 1100 from table where 500 monster knockouts 
+ select reason for change from table where date of successors formal installation march 16 1960 
+ select directed by from table where production code k0122 
+ select score from table where high assists joel przybilla 4 
+ select production in 2011 1000 ton from table where production in 2010 1000 ton 75849 
+ select team from table where qualification entry to the 2004 chinese super league and 2002 position 6 and 2003 position 9 and total position 35 
+ select pos from table where first round 357 
+ select sum laps from table where timeretired engine and grid 1 
+ select gold from table where bronze jules van dyk belgium 
+ select institution from table where founded 1883 and current conference american southwest 
+ select network from table where year 2011 and title star king 
+ select player from table where position left wing and nationality canada and nhl team st louis blues 
+ select 1981 census from table where city livorno 
+ select airport from table where iata tyn 
+ select sum year from table where engine cosworth v8 and entrant john player lotus 
+ select max goals for from table where losses 15 and position 8 and points 424 
+ select count wheels from table where lms nos 163779 
+ select avg february from table where game 64 
+ select race from table where circuit monaco 
+ select main span metres from table where year to open 2013 and country china and main span feet 2585 
+ select count league goals from table where fa cup apps 0 1 
+ select score from table where date 17072009 
+ select opponent from table where date december 27 
+ select winnernominees from table where year 2001 
+ select avg first elected from table where result reelected and incumbent charles n felton 
+ select date from table where edition 1988 world group i and result 7–6 7–5 6–3 
+ select count crowd from table where away team geelong 
+ select hydroxymatairesinol from table where sesamin 62724 
+ select original air date from table where production code 2arg01 
+ select date from table where arena joe louis arena 
+ select country from table where score 72707572289 
+ select team from table where date november 5 
+ select director from table where writer nathan cockerill and title nano nits 
+ select max date from table where type 044 forney locomotive and number 20 and works number 23754 
+ select 20062007 season from table where club vitória de setúbal 
+ select award from table where category best actor in a musical and nominee denis lawson 
+ select total trade from table where exports 1360865 
+ select date from table where week 2 and result l 16–10 
+ select min 2nd m from table where name gregor schlierenzauer 
+ select college from table where team denver broncos 
+ select min number of seats from table where current status retired and year placed in service 1981 
+ select event from table where time 208 

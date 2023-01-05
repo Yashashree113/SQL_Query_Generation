@@ -1,0 +1,3 @@
+ select max wins from table where neutral wins 0 and away wins 2 
+ select writer from table where director colin teague 
+ select circuit from table where winning constructor maserati and winning drivers giuseppe campari 
